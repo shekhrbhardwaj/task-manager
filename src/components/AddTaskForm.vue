@@ -176,4 +176,6 @@ const props = defineProps(["showPopup", "newTask", "fromError"]);
   background: rgba(0, 0, 0, 0.5); /* semi-transparent black */
   z-index: 98; /* less than the popup itself */
 }
+
+
 </style>
